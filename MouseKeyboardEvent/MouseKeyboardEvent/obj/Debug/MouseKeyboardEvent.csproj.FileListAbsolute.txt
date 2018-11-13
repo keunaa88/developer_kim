@@ -1,0 +1,10 @@
+C:\Users\J378116.ED.001\source\repos\MouseKeyboardEvent\MouseKeyboardEvent\bin\Debug\MouseKeyboardEvent.exe.config
+C:\Users\J378116.ED.001\source\repos\MouseKeyboardEvent\MouseKeyboardEvent\bin\Debug\MouseKeyboardEvent.exe
+C:\Users\J378116.ED.001\source\repos\MouseKeyboardEvent\MouseKeyboardEvent\bin\Debug\MouseKeyboardEvent.pdb
+C:\Users\J378116.ED.001\source\repos\MouseKeyboardEvent\MouseKeyboardEvent\obj\Debug\MouseKeyboardEvent.csprojResolveAssemblyReference.cache
+C:\Users\J378116.ED.001\source\repos\MouseKeyboardEvent\MouseKeyboardEvent\obj\Debug\MouseKeyboardEvent.Form1.resources
+C:\Users\J378116.ED.001\source\repos\MouseKeyboardEvent\MouseKeyboardEvent\obj\Debug\MouseKeyboardEvent.Properties.Resources.resources
+C:\Users\J378116.ED.001\source\repos\MouseKeyboardEvent\MouseKeyboardEvent\obj\Debug\MouseKeyboardEvent.csproj.GenerateResource.Cache
+C:\Users\J378116.ED.001\source\repos\MouseKeyboardEvent\MouseKeyboardEvent\obj\Debug\MouseKeyboardEvent.csproj.CoreCompileInputs.cache
+C:\Users\J378116.ED.001\source\repos\MouseKeyboardEvent\MouseKeyboardEvent\obj\Debug\MouseKeyboardEvent.exe
+C:\Users\J378116.ED.001\source\repos\MouseKeyboardEvent\MouseKeyboardEvent\obj\Debug\MouseKeyboardEvent.pdb
